@@ -3,3 +3,7 @@
 - ResNet
 - MobileNetv2
 - SRCNN
+- VGG
+- Inception
+- DenseNet
+- SqueezeNet

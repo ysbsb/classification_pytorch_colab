@@ -2,6 +2,7 @@
 
 - ResNet
 - MobileNetV2
+- SRCNN
 
 
 

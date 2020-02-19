@@ -3,7 +3,5 @@
 - ResNet
 - MobileNetv2
 - SRCNN
-- VGG
-
 
 

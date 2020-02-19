@@ -3,5 +3,3 @@
 - ResNet
 - MobileNetv2
 - SRCNN
-
-

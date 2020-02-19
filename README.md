@@ -6,3 +6,4 @@
 - VGG
 - Inception
 - DenseNet
+- SqueezeNet

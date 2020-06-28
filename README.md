@@ -1,6 +1,6 @@
 # CNN Classification Pytorch in Google Colab
 
-Easy implement and running of cnn classification in Google Colab
+Easy implement of cnn classification in pytorch running in Google Colab
 
 - ResNet
 - MobileNetv1

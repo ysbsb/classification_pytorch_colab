@@ -2,13 +2,16 @@
 
 Easy implement of cnn classification in pytorch running in Google Colab
 
-- ResNet
-- MobileNetv1
-- MobileNetv2
-- SRCNN
-- VGG
-- DenseNet
-- SqueezeNet
-- SqueezeNetv2
-- Xception
-- ResNeXt
+1. VGG
+2. GoogLeNet
+3. Inception
+4. ResNet
+5. Inceptionv4
+6. DenseNet
+7. SqueezeNet
+8. Xception
+9. MobileNet
+10. ResNeXt
+11. ShuffleNet
+12. MobileNetv2
+13. ShuffleNetv2
